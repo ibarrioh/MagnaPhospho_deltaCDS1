@@ -1,8 +1,7 @@
 This repository includes 3 folders: input (for needed tables to perform the analysis), output (for tables and figures the scripts are able to generate) and scripts (all needed R scripts to perform data analysis and produce every figure in the paper). We will discuss them in detail below
 # Input
+data needed for the analysis: pep_tab_exp1.rds (all peptide information from Proteome discover), MagnaportheOryzaeMG8_20200715.fasta (FASTA file use for databasse search in proteome discover and to retrieve seuqences for the sequence windows), mart_export_GO_MG8.txt (Biomart annotation for Magnaporthe), 242507.protein.aliases.v12.0.txt and 242507.protein.links.detailed.v12.0.txt (STRING download for Magnaporthe interactome), MOR_pathways.txt (in house pathway annotation for Magnaporthe), Ex1_10Aawindow_NetPhospan.txt (Kinase prediction from NetPhospan using CDS1 kinase domain), score-sites-bulk-serine-threonine.tsv (kinase prediction from kianse library resource).
 # Output
-Divided in "tabs" and "figs", here you can find the RDS (for intermediate steps) and .txt tables that are part of the analysis. Also figures in PDF which where further edited using inkscape for the final paper versions.
+Divided in "tabs" and "figs", here you can find the RDS (for intermediate steps) and .txt final tables that are product of the analysis as well as figures. Concerning figures, they are in a raw PDF format, they were edited using Inkscape for final paper ready figure. 
 # R scripts
-Rscript1: pure data analysis, reformating, filtering, site quantification... 
-Rscript2: assambling the final table with all the information produced in Rscript 1
-Rscript3: lines to produce figures for the paper (main and supplementary)
+Commented scripts use for this paper, all needed packages are detailed and they are ready to run once the repository has been downloaded. Rscript1 (pure data analysis, reformating, filtering, site quantification...), Rscript2 (assembling the final table with all the information produced in Rscript 1) and Rscript3 (lines to produce figures for the paper using Rscripts 1 & 2 RDS tables (main and supplementary)
