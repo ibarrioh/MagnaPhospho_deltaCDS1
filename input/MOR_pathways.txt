@@ -1,0 +1,790 @@
+term	geneID
+actin	MGG_00307
+actin	MGG_00444
+actin	MGG_01508
+actin	MGG_01768
+actin	MGG_01801
+actin	MGG_02835
+actin	MGG_02891
+actin	MGG_02971
+actin	MGG_03164
+actin	MGG_03705
+actin	MGG_03876
+actin	MGG_03879
+actin	MGG_03982
+actin	MGG_04116
+actin	MGG_04352
+actin	MGG_04745
+actin	MGG_05528
+actin	MGG_05534
+actin	MGG_05587
+actin	MGG_06101
+actin	MGG_06358
+actin	MGG_06389
+actin	MGG_06439
+actin	MGG_07273
+actin	MGG_07332
+actin	MGG_07714
+actin	MGG_08078
+actin	MGG_09495
+actin	MGG_10059
+actin	MGG_10115
+actin	MGG_10322
+actin	MGG_11497
+actin	MGG_11773
+actin	MGG_12830
+actin	MGG_13398
+actin	MGG_15175
+actin	MGG_16793
+actin	MGG_17001
+actin	MGG_18073
+autophagy	MGG_00454
+autophagy	MGG_00598
+autophagy	MGG_01062
+autophagy	MGG_03139
+autophagy	MGG_03459
+autophagy	MGG_03580
+autophagy	MGG_03638
+autophagy	MGG_03694
+autophagy	MGG_04486
+autophagy	MGG_05255
+autophagy	MGG_06393
+autophagy	MGG_07297
+autophagy	MGG_07667
+autophagy	MGG_08061
+autophagy	MGG_09262
+autophagy	MGG_09559
+autophagy	MGG_09904
+autophagy	MGG_12828
+autophagy	MGG_14737
+cell cycle	MGG_03314
+cell cycle	MGG_04724
+cell cycle	MGG_17195
+cell cycle	MGG_01032
+cell cycle	MGG_00691
+cell cycle	MGG_06436
+cell cycle	MGG_02799
+cell cycle	MGG_00809
+cell cycle	MGG_08594
+cell cycle	MGG_05646
+cell cycle	MGG_07065
+cell cycle	MGG_07734
+cell cycle	MGG_00682
+cell cycle	MGG_13401
+cell cycle	MGG_01816
+cell cycle	MGG_06413
+cell cycle	MGG_06928
+cell cycle	MGG_01362
+cell cycle	MGG_04660
+cell cycle	MGG_01694
+cell cycle	MGG_02459
+cell cycle	MGG_02986
+cell cycle	MGG_04123
+cell cycle	MGG_03196
+cell cycle	MGG_08829
+cell cycle	MGG_01596
+cell cycle	MGG_03729
+cell cycle	MGG_04790
+cell cycle	MGG_14764
+cell cycle	MGG_02656
+cell cycle	MGG_00597
+cell cycle	MGG_12899
+cell cycle	MGG_05040
+cell cycle	MGG_00485
+cell cycle	MGG_06908
+cell cycle	MGG_05049
+cell cycle	MGG_03595
+cell cycle	MGG_00213
+cell cycle	MGG_01549
+cell cycle	MGG_01611
+cell cycle	MGG_01917
+cell cycle	MGG_01759
+cell cycle	MGG_02482
+cell cycle	MGG_08122
+cell cycle	MGG_08646
+cell cycle	MGG_09293
+cell cycle	MGG_09300
+cell cycle	MGG_17683
+cell cycle	MGG_02757
+cell cycle	MGG_04100
+cell cycle	MGG_00757
+cell cycle	MGG_02810
+cell cycle	MGG_03894
+cell cycle	MGG_00518
+cell cycle	MGG_01183
+cell cycle	MGG_02088
+cell cycle	MGG_04929
+cell cycle	MGG_08558
+cell cycle	MGG_13439
+cell cycle	MGG_15011
+cell cycle	MGG_16341
+cell cycle	MGG_09960
+cell cycle	MGG_08613
+cell cycle	MGG_00134
+cell cycle	MGG_02804
+cell cycle	MGG_12276
+cell cycle	MGG_17052
+cell cycle	MGG_15566
+cell cycle	MGG_03204
+cell cycle	MGG_03246
+cell cycle	MGG_03026
+cell cycle	MGG_03485
+cell cycle	MGG_03488
+DDR	MGG_01032
+DDR	MGG_00691
+DDR	MGG_06436
+DDR	MGG_02799
+DDR	MGG_00809
+DDR	MGG_08594
+DDR	MGG_03196
+DDR	MGG_08829
+DDR	MGG_01596
+DDR	MGG_03729
+DDR	MGG_04790
+DDR	MGG_14764
+DDR	MGG_02656
+DDR	MGG_00597
+DDR	MGG_02804
+DDR	MGG_12276
+DDR	MGG_17052
+DDR	MGG_02656
+DDR	MGG_14764
+DDR	MGG_05278
+DDR	MGG_12138
+DDR	MGG_17052
+DDR	 MGG_15566
+DDR	MGG_04389
+DDR	MGG_12276
+DDR	MGG_01813
+DDR	MGG_09555 
+DDR	MGG_11387 
+DDR	MGG_04000
+F-bar	MGG_02891
+F-bar	MGG_03638
+F-bar	MGG_05528
+F-bar	MGG_05534
+F-bar	MGG_11178
+F-bar	MGG_11497
+F-bar	MGG_01508
+F-bar	MGG_01434
+F-bar	MGG_06743
+F-bar	MGG_12832
+F-bar	MGG_03048
+F-bar	MGG_07332
+F-bar	MGG_09531
+F-bar	MGG_11899
+F-bar	MGG_00153
+F-bar	MGG_11731
+F-bar	MGG_08887
+phosphatases	MGG_09700
+phosphatases	MGG_08005
+phosphatases	MGG_06159
+phosphatases	MGG_15140
+phosphatases	MGG_03130
+phosphatases	MGG_04637
+phosphatases	MGG_04474
+phosphatases	MGG_16389
+phosphatases	MGG_02831
+phosphatases	MGG_05038
+phosphatases	MGG_10669
+phosphatases	MGG_01387
+phosphatases	MGG_14552
+phosphatases	MGG_07632
+phosphatases	MGG_09360
+phosphatases	MGG_02980
+phosphatases	MGG_12131
+phosphatases	MGG_08146
+phosphatases	MGG_07077
+phosphatases	MGG_05671
+phosphatases	MGG_14656
+phosphatases	MGG_04718
+phosphatases	MGG_04960
+phosphatases	MGG_02967
+phosphatases	MGG_05115
+phosphatases	MGG_07898
+phosphatases	MGG_10489
+phosphatases	MGG_06642
+phosphatases	MGG_09199
+phosphatases	MGG_06167
+phosphatases	MGG_00538
+phosphatases	MGG_08305
+phosphatases	MGG_06306
+phosphatases	MGG_12813
+phosphatases	MGG_03890
+phosphatases	MGG_05139
+phosphatases	MGG_17306
+phosphatases	MGG_10811
+phosphatases	MGG_15791
+phosphatases	MGG_15390
+phosphatases	MGG_10799
+phosphatases	MGG_16443
+phosphatases	MGG_03485
+phosphatases	MGG_04219
+phosphatases	MGG_06937
+phosphatases	MGG_03646
+phosphatases	MGG_06001
+cutinases	MGG_00734
+cutinases	MGG_01146
+cutinases	MGG_01943
+cutinases	MGG_02393
+cutinases	MGG_03440
+cutinases	MGG_03792
+cutinases	MGG_04237
+cutinases	MGG_05798
+cutinases	MGG_09100
+cutinases	MGG_09840
+cutinases	MGG_10515
+cutinases	MGG_11091
+cutinases	MGG_11966
+cutinases	MGG_12016
+cutinases	MGG_14095
+cutinases	MGG_14959
+cutinases	MGG_15403
+cutinases	MGG_15460
+GPCR	MGG_00258
+GPCR	MGG_00277
+GPCR	MGG_00435
+GPCR	MGG_00532
+GPCR	MGG_00826
+GPCR	MGG_01190
+GPCR	MGG_01867
+GPCR	MGG_01890
+GPCR	MGG_01905
+GPCR	MGG_02001
+GPCR	MGG_02160
+GPCR	MGG_02692
+GPCR	MGG_02855
+GPCR	MGG_03009
+GPCR	MGG_03584
+GPCR	MGG_03794
+GPCR	MGG_03935
+GPCR	MGG_04170
+GPCR	MGG_04679
+GPCR	MGG_04682
+GPCR	MGG_04698
+GPCR	MGG_04711
+GPCR	MGG_04935
+GPCR	MGG_05214
+GPCR	MGG_05352
+GPCR	MGG_05386
+GPCR	MGG_05514
+GPCR	MGG_05871
+GPCR	MGG_06084
+GPCR	MGG_06171
+GPCR	MGG_06257
+GPCR	MGG_06452
+GPCR	MGG_06535
+GPCR	MGG_06595
+GPCR	MGG_06624
+GPCR	MGG_06738
+GPCR	MGG_06755
+GPCR	MGG_06797
+GPCR	MGG_07420
+GPCR	MGG_07553
+GPCR	MGG_07565
+GPCR	MGG_07806
+GPCR	MGG_07851
+GPCR	MGG_07857
+GPCR	MGG_07987
+GPCR	MGG_08525
+GPCR	MGG_08653
+GPCR	MGG_08803
+GPCR	MGG_09022
+GPCR	MGG_09070
+GPCR	MGG_09091
+GPCR	MGG_09416
+GPCR	MGG_09437
+GPCR	MGG_09667
+GPCR	MGG_09863
+GPCR	MGG_09865
+GPCR	MGG_10050
+GPCR	MGG_10257
+GPCR	MGG_10407
+GPCR	MGG_10438
+GPCR	MGG_10442
+GPCR	MGG_10473
+GPCR	MGG_10544
+GPCR	MGG_10571
+GPCR	MGG_10581
+GPCR	MGG_10706
+GPCR	MGG_10747
+GPCR	MGG_11006
+Melanin Biosynthesis	MGG_00904
+Melanin Biosynthesis	MGG_00905
+Melanin Biosynthesis	MGG_02252
+Melanin Biosynthesis	MGG_05059
+Melanin Biosynthesis	MGG_07215
+Melanin Biosynthesis	MGG_07216
+Melanin Biosynthesis	MGG_07217
+Melanin Biosynthesis	MGG_07218
+Melanin Biosynthesis	MGG_07219
+Melanin Biosynthesis	MGG_07220
+Melanin Biosynthesis	MGG_07613
+Melanin Biosynthesis	MGG_15881
+Melanin Biosynthesis	MGG_15882
+Melanin Biosynthesis	MGG_17344
+Melanin Biosynthesis	MGG_17345
+Multicopper Oxidases	MGG_00423
+Multicopper Oxidases	MGG_07500
+Multicopper Oxidases	MGG_13764
+Multicopper Oxidases	MGG_08127
+Multicopper Oxidases	MGG_07771
+Multicopper Oxidases	MGG_17429
+Multicopper Oxidases	MGG_09102
+Multicopper Oxidases	MGG_07220
+Multicopper Oxidases	MGG_02156
+Multicopper Oxidases	MGG_08523
+Multicopper Oxidases	MGG_14307
+Multicopper Oxidases	MGG_08046
+Multicopper Oxidases	MGG_05790
+Multicopper Oxidases	MGG_11608
+Multicopper Oxidases	MGG_09103
+Multicopper Oxidases	MGG_02876
+Multicopper Oxidases	MGG_09139
+Multicopper Oxidases	MGG_13464
+TOR	MGG_15156
+TOR	MGG_06050
+TOR	MGG_02741
+TOR	MGG_06035
+TOR	MGG_07219
+TOR	MGG_03860
+TOR	MGG_00362
+TOR	MGG_03250
+TOR	MGG_05284
+TOR	MGG_07284
+TOR	MGG_12748
+Tyrosinases	MGG_08455
+Tyrosinases	MGG_01571
+Tyrosinases	MGG_06169
+Tyrosinases	MGG_07585
+Tyrosinases	MGG_07419
+Tyrosinases	MGG_09614
+Tyrosinases	MGG_05862
+Tyrosinases	MGG_03962
+Tyrosinases	MGG_14157
+Tyrosinases	MGG_11545
+Tyrosinases	MGG_13937
+Tyrosinases	MGG_05914
+Tyrosinases	MGG_11274
+Tyrosinases	MGG_14598
+Tyrosinases	MGG_10585
+Tyrosinases	MGG_02508
+Tyrosinases	MGG_10561
+RAM pathway	MGG_02757
+RAM pathway	MGG_03151
+RAM pathway	MGG_03219
+RAM pathway	MGG_03232
+RAM pathway	MGG_05376
+RAM pathway	MGG_07116
+RAM pathway	MGG_09519
+RAM pathway	MGG_16277
+Septin and cytoskeleton	MGG_01521
+Septin and cytoskeleton	MGG_02626
+Septin and cytoskeleton	MGG_03087
+Septin and cytoskeleton	MGG_06341
+Septin and cytoskeleton	MGG_06726
+Septin and cytoskeleton	MGG_07466
+Septin and cytoskeleton	MGG_01508
+Septin and cytoskeleton	MGG_11899
+Septin and cytoskeleton	MGG_09531
+Septin and cytoskeleton	MGG_03048
+Septin and cytoskeleton	MGG_07332
+Septin and cytoskeleton	MGG_06439
+Septin and cytoskeleton	MGG_11497
+Septin and cytoskeleton	MGG_02875
+Septin and cytoskeleton	MGG_06572
+Septin and cytoskeleton	MGG_02802
+Septin and cytoskeleton	MG_06320
+Septin and cytoskeleton	MGG_12821
+cAMP cpka	MGG_00365
+cAMP cpka	MGG_00466
+cAMP cpka	MGG_00990
+cAMP cpka	MGG_01588
+cAMP cpka	MGG_01722
+cAMP cpka	MGG_01818
+cAMP cpka	MGG_02832
+cAMP cpka	MGG_03146
+cAMP cpka	MGG_03196
+cAMP cpka	MGG_03726
+cAMP cpka	MGG_04204
+cAMP cpka	MGG_04708
+cAMP cpka	MGG_05201
+cAMP cpka	MGG_05664
+cAMP cpka	MGG_05871
+cAMP cpka	MGG_06033
+cAMP cpka	MGG_06368
+cAMP cpka	MGG_06389
+cAMP cpka	MGG_06958
+cAMP cpka	MGG_06971
+cAMP cpka	MGG_07707
+cAMP cpka	MGG_08735
+cAMP cpka	MGG_09125
+cAMP cpka	MGG_09618
+cAMP cpka	MGG_09898
+cAMP cpka	MGG_11346
+cAMP cpka	MGG_11693
+cAMP cpka	MGG_13926
+cAMP cpka	MGG_14517
+cAMP cpka	MGG_14517
+cAMP cpka	MGG_14931
+Transcription factors	MGG_00021
+Transcription factors	MGG_00049
+Transcription factors	MGG_00137
+Transcription factors	MGG_00178
+Transcription factors	MGG_00184
+Transcription factors	MGG_00288
+Transcription factors	MGG_00320
+Transcription factors	MGG_00342
+Transcription factors	MGG_00354
+Transcription factors	MGG_00417
+Transcription factors	MGG_00494
+Transcription factors	MGG_00587
+Transcription factors	MGG_00595
+Transcription factors	MGG_00602
+Transcription factors	MGG_00622
+Transcription factors	MGG_00672
+Transcription factors	MGG_00692
+Transcription factors	MGG_00729
+Transcription factors	MGG_00934
+Transcription factors	MGG_01204
+Transcription factors	MGG_01285
+Transcription factors	MGG_01414
+Transcription factors	MGG_01475
+Transcription factors	MGG_01486
+Transcription factors	MGG_01518
+Transcription factors	MGG_01624
+Transcription factors	MGG_01688
+Transcription factors	MGG_01730
+Transcription factors	MGG_01734
+Transcription factors	MGG_01777
+Transcription factors	MGG_01779
+Transcription factors	MGG_01833
+Transcription factors	MGG_01836
+Transcription factors	MGG_01840
+Transcription factors	MGG_01853
+Transcription factors	MGG_01870
+Transcription factors	MGG_01887
+Transcription factors	MGG_01946
+Transcription factors	MGG_01990
+Transcription factors	MGG_02006
+Transcription factors	MGG_02129
+Transcription factors	MGG_02226
+Transcription factors	MGG_02289
+Transcription factors	MGG_02377
+Transcription factors	MGG_02408
+Transcription factors	MGG_02632
+Transcription factors	MGG_02732
+Transcription factors	MGG_02755
+Transcription factors	MGG_02773
+Transcription factors	MGG_02865
+Transcription factors	MGG_02879
+Transcription factors	MGG_02880
+Transcription factors	MGG_02962
+Transcription factors	MGG_03055
+Transcription factors	MGG_03183
+Transcription factors	MGG_03242
+Transcription factors	MGG_03288
+Transcription factors	MGG_03413
+Transcription factors	MGG_03516
+Transcription factors	MGG_03538
+Transcription factors	MGG_03623
+Transcription factors	MGG_03669
+Transcription factors	MGG_03711
+Transcription factors	MGG_03763
+Transcription factors	MGG_03848
+Transcription factors	MGG_03939
+Transcription factors	MGG_04009
+Transcription factors	MGG_04011
+Transcription factors	MGG_04024
+Transcription factors	MGG_04108
+Transcription factors	MGG_04122
+Transcription factors	MGG_04141
+Transcription factors	MGG_04213
+Transcription factors	MGG_04326
+Transcription factors	MGG_04360
+Transcription factors	MGG_04387
+Transcription factors	MGG_04521
+Transcription factors	MGG_04571
+Transcription factors	MGG_04665
+Transcription factors	MGG_04674
+Transcription factors	MGG_04758
+Transcription factors	MGG_04853
+Transcription factors	MGG_04933
+Transcription factors	MGG_04954
+Transcription factors	MGG_05016
+Transcription factors	MGG_05033
+Transcription factors	MGG_05153
+Transcription factors	MGG_05306
+Transcription factors	MGG_05343
+Transcription factors	MGG_05434
+Transcription factors	MGG_05459
+Transcription factors	MGG_05578
+Transcription factors	MGG_05659
+Transcription factors	MGG_05829
+Transcription factors	MGG_05845
+Transcription factors	MGG_05891
+Transcription factors	MGG_05939
+Transcription factors	MGG_05959
+Transcription factors	MGG_06050
+Transcription factors	MGG_06131
+Transcription factors	MGG_06243
+Transcription factors	MGG_06258
+Transcription factors	MGG_06279
+Transcription factors	MGG_06285
+Transcription factors	MGG_06312
+Transcription factors	MGG_06355
+Transcription factors	MGG_06422
+Transcription factors	MGG_06492
+Transcription factors	MGG_06626
+Transcription factors	MGG_06832
+Transcription factors	MGG_06954
+Transcription factors	MGG_06971
+Transcription factors	MGG_07063
+Transcription factors	MGG_07131
+Transcription factors	MGG_07205
+Transcription factors	MGG_07215
+Transcription factors	MGG_07218
+Transcription factors	MGG_07305
+Transcription factors	MGG_07319
+Transcription factors	MGG_07361
+Transcription factors	MGG_07368
+Transcription factors	MGG_07386
+Transcription factors	MGG_07423
+Transcription factors	MGG_07437
+Transcription factors	MGG_07450
+Transcription factors	MGG_07458
+Transcription factors	MGG_07534
+Transcription factors	MGG_07549
+Transcription factors	MGG_07636
+Transcription factors	MGG_07681
+Transcription factors	MGG_07738
+Transcription factors	MGG_07777
+Transcription factors	MGG_07800
+Transcription factors	MGG_07830
+Transcription factors	MGG_07845
+Transcription factors	MGG_07925
+Transcription factors	MGG_08058
+Transcription factors	MGG_08093
+Transcription factors	MGG_08094
+Transcription factors	MGG_08130
+Transcription factors	MGG_08168
+Transcription factors	MGG_08185
+Transcription factors	MGG_08199
+Transcription factors	MGG_08212
+Transcription factors	MGG_08314
+Transcription factors	MGG_08361
+Transcription factors	MGG_08463
+Transcription factors	MGG_08536
+Transcription factors	MGG_08618
+Transcription factors	MGG_08753
+Transcription factors	MGG_08777
+Transcription factors	MGG_08875
+Transcription factors	MGG_08917
+Transcription factors	MGG_09002
+Transcription factors	MGG_09010
+Transcription factors	MGG_09263
+Transcription factors	MGG_09273
+Transcription factors	MGG_09276
+Transcription factors	MGG_09312
+Transcription factors	MGG_09676
+Transcription factors	MGG_09780
+Transcription factors	MGG_09829
+Transcription factors	MGG_09869
+Transcription factors	MGG_09950
+Transcription factors	MGG_10144
+Transcription factors	MGG_10197
+Transcription factors	MGG_10212
+Transcription factors	MGG_10246
+Transcription factors	MGG_10252
+Transcription factors	MGG_10307
+Transcription factors	MGG_10422
+Transcription factors	MGG_10528
+Transcription factors	MGG_10529
+Transcription factors	MGG_10538
+Transcription factors	MGG_10562
+Transcription factors	MGG_10575
+Transcription factors	MGG_10660
+Transcription factors	MGG_10806
+Transcription factors	MGG_10837
+Transcription factors	MGG_10970
+Transcription factors	MGG_11116
+Transcription factors	MGG_11119
+Transcription factors	MGG_11192
+Transcription factors	MGG_11247
+Transcription factors	MGG_11311
+Transcription factors	MGG_11712
+Transcription factors	MGG_11724
+Transcription factors	MGG_11764
+Transcription factors	MGG_11779
+Transcription factors	MGG_12037
+Transcription factors	MGG_12339
+Transcription factors	MGG_12349
+Transcription factors	MGG_12560
+Transcription factors	MGG_12776
+Transcription factors	MGG_12814
+Transcription factors	MGG_12827
+Transcription factors	MGG_12865
+Transcription factors	MGG_12958
+Transcription factors	MGG_13350
+Transcription factors	MGG_13607
+Transcription factors	MGG_13894
+Transcription factors	MGG_13919
+Transcription factors	MGG_13927
+Transcription factors	MGG_13994
+Transcription factors	MGG_14175
+Transcription factors	MGG_14496
+Transcription factors	MGG_14561
+Transcription factors	MGG_14728
+Transcription factors	MGG_14816
+Transcription factors	MGG_14852
+Transcription factors	MGG_15021
+Transcription factors	MGG_15023
+Transcription factors	MGG_15085
+Transcription factors	MGG_15139
+Sln1-Osm1 Pathway	MGG_09125
+Sln1-Osm1 Pathway	MGG_08304
+Sln1-Osm1 Pathway	MGG_10268
+Sln1-Osm1 Pathway	MGG_07312
+Sln1-Osm1 Pathway	MGG_01702
+Sln1-Osm1 Pathway	MGG_03937
+Sln1-Osm1 Pathway	MGG_10268
+Sln1-Osm1 Pathway	MGG_11174
+Sln1-Osm1 Pathway	MGG_05280
+Sln1-Osm1 Pathway	MGG_08689
+Sln1-Osm1 Pathway	MGG_01822
+Sln1-Osm1 Pathway	MGG_07335
+Sln1-Osm1 Pathway	MGG_01702
+Sln1-Osm1 Pathway	MGG_08689
+Sln1-Osm1 Pathway	MGG_08299
+Sln1-Osm1 Pathway	MGG_00750
+Sln1-Osm1 Pathway	MGG_06559
+Sln1-Osm1 Pathway	MGG_09956
+Sln1-Osm1 Pathway	MGG_05280
+Sln1-Osm1 Pathway	MGG_09125
+Sln1-Osm1 Pathway	MGG_03516
+Sln1-Osm1 Pathway	MGG_02897
+Sln1-Osm1 Pathway	MGG_00183
+Sln1-Osm1 Pathway	MGG_07614
+Sln1-Osm1 Pathway	MGG_10268
+Sln1-Osm1 Pathway	MGG_07173
+Sln1-Osm1 Pathway	MGG_07335
+Pmk1 Pathway	MGG_06033
+Pmk1 Pathway	MGG_09125
+Pmk1 Pathway	MGG_06154
+Pmk1 Pathway	MGG_14847
+Pmk1 Pathway	MGG_05199
+Pmk1 Pathway	MGG_00800
+Pmk1 Pathway	MGG_14931
+Pmk1 Pathway	MGG_11168
+Pmk1 Pathway	MGG_08600
+Pmk1 Pathway	MGG_09565
+Pmk1 Pathway	MGG_12865
+Pmk1 Pathway	MGG_02773
+Pmk1 Pathway	MGG_12958
+Pmk1 Pathway	MGG_01285
+Pmk1 Pathway	MGG_06971
+MPS1 pathway	MGG_09869
+MPS1 pathway	MGG_01204
+MPS1 pathway	MGG_00883
+MPS1 pathway	MGG_06482
+MPS1 pathway	MGG_11513
+MPS1 pathway	MGG_00466
+MPS1 pathway	MGG_07176
+MPS1 pathway	MGG_09499
+MPS1 pathway	MGG_07950
+MPS1 pathway	MGG_10878
+MPS1 pathway	MGG_01655
+MPS1 pathway	MGG_00486
+MPS1 pathway	MGG_11335
+MPS1 pathway	MGG_01466
+MPS1 pathway	MGG_04325
+MPS1 pathway	MGG_03417
+MPS1 pathway	MGG_16247
+MPS1 pathway	MGG_02754
+MPS1 pathway	MGG_03761
+MPS1 pathway	MGG_12484
+MPS1 pathway	MGG_01408
+MPS1 pathway	MGG_04943
+MPS1 pathway	MGG_11174
+MPS1 pathway	MGG_12530
+MPS1 pathway	MGG_13891
+MPS1 pathway	MGG_01342
+MPS1 pathway	MGG_06696
+CDKs	MGG_01362
+CDKs	MGG_04660
+CDKs	MGG_06413
+CDKs	MGG_06928
+CDKs	MGG_07291
+CDKs	MGG_13401
+CDKs	MGG_04905
+CDKs	MGG_03605
+CDKs	MGG_09000
+Cyclins	MGG_08558
+Cyclins	MGG_04929
+Cyclins	MGG_02088
+Cyclins	MGG_16341
+Cyclins	MGG_15011
+Cyclins	MGG_13439
+Cyclins	MGG_00682
+Cyclins	MGG_01258
+Cyclins	MGG_05646
+Cyclins	MGG_07065
+Cyclins	MGG_01071
+Cyclins	MGG_03595
+Cyclins	MGG_01361
+Cyclins	MGG_11817
+Cyclins	MGG_15176
+Polarity	MGG_06390
+Polarity	MGG_04006
+Polarity	MGG_09303
+Polarity	MGG_11178
+Polarity	MGG_01695
+Polarity	MGG_09954
+Polarity	MGG_12644
+Polarity	MGG_07176
+Polarity	MGG_02457
+Polarity	MGG_10323
+Polarity	MGG_00466
+Polarity	MGG_02731
+Polarity	MGG_03295
+Polarity	MGG_06676
+Polarity	MGG_01760
+Polarity	MGG_06098
+Polarity	MGG_03323
+Polarity	MGG_07150
+Polarity	MGG_03235
+Polarity	MGG_03985
+Polarity	MGG_04559
+Polarity	MGG_00471
+Polarity	MGG_11773
+Polarity	MGG_03703
+Polarity	MGG_04061
+Polarity	MGG_02923
+Polarity	MGG_06135
+Polarity	MGG_00118
+Polarity	MGG_09470
+Epigenetic markers	MGG_06852
+Epigenetic markers	MGG_15053
+Epigenetic markers	MGG_01661
+Epigenetic markers	MGG_05254
+Epigenetic markers	MGG_07393
+Epigenetic markers	MGG_00152
+Epigenetic markers	MGG_02937
+Epigenetic markers	MGG_15522
+Epigenetic markers	MGG_00152
+Epigenetic markers	MGG_03169
+Epigenetic markers	MGG_06028
+Epigenetic markers	MGG_07323
+Epigenetic markers	MGG_05857
+Epigenetic markers	MGG_01633
+Epigenetic markers	MGG_01076
+Epigenetic markers	MGG_10267
+Epigenetic markers	MGG_04588
+Epigenetic markers	MGG_02488
+Epigenetic markers	MGG_06043
+Epigenetic markers	MGG_01633.5
+Epigenetic markers	MGG_09174.5
+Epigenetic markers	MGG_02488.5
+Epigenetic markers	MGG_10447.5
+Epigenetic markers	MGG_05727.5
+Epigenetic markers	MGG_03198
