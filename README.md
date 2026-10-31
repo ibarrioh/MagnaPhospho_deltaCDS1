@@ -4,6 +4,6 @@ This repository includes 3 folders: input (for needed tables to perform the anal
 # Output
 Divided in "tabs" and "figs", here you can find the RDS (for intermediate steps) and .txt tables that are part of the analysis. Also figures in PDF which where further edited using inkscape for the final paper versions.
 # R scripts
-Rscript1: 
-Rscript2:
-Rscript3:
+Rscript1: pure data analysis, reformating, filtering, site quantification... 
+Rscript2: assambling the final table with all the information produced in Rscript 1
+Rscript3: lines to produce figures for the paper (main and supplementary)
